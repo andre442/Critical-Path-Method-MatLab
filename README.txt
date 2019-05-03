@@ -1,25 +1,25 @@
-Algoritmo elaborado para cálculo do caminha crítico no MatLab
+Algoritmo elaborado para cÃ¡lculo do caminha crÃ­tico no MatLab
 Entradas devem estar no formato a seguir:
 
-Entrada "a" (nomes e durações de cada atividade em formato .txt):
+Entrada "a" (nomes e duraÃ§Ãµes de cada atividade em formato .txt):
 
 #
 {
 atividade1      #nome da atividade
-3               #duração da atividade
+3               #duraÃ§Ã£o da atividade
 }
 {
 atividade2      #nome da atividade
-2               #duração da atividade
+2               #duraÃ§Ã£o da atividade
 }
 ...
 
 
-Entrada "b" (relação entre as atividades em formato .txt):
+Entrada "b" (relaÃ§Ã£o entre as atividades em formato .txt):
 
 #
 {
-início
+inÃ­cio
 Atividade1
 }
 {
