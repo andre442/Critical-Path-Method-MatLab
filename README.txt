@@ -1,4 +1,4 @@
-Algoritmo elaborado para cálculo do caminha crítico no MatLab
+Algoritmo elaborado para cálculo do caminho crítico no MatLab
 Entradas devem estar no formato a seguir:
 
 Entrada "a" (nomes e durações de cada atividade em formato .txt):
